@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Gestor de permisos M+</string>
+    <string name="eti_localizacion">ACCESS_FINE_LOCATION</string>
+    <string name="eti_camara">CAMERA</string>
+    <string name="eti_internet">INTERNET</string>
+    <string name="eti_contactos">READ_CONTACTS</string>
+    <string name="eti_almacenamiento">WRITE_EXTERNAL_STORAGE</string>
+
+    //Toasts
+    <string name="toast_error">Error</string>
+    <string name="toast_camara">Camara</string>
+    <string name="toast_contactos">Contactos</string>
+    <string name="toast_localizacion">Localizacion</string>
 </resources>
