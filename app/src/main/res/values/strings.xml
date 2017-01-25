@@ -11,4 +11,9 @@
     <string name="toast_camara">Camara</string>
     <string name="toast_contactos">Contactos</string>
     <string name="toast_localizacion">Localizacion</string>
+
+    //Menu
+    <string name="menu_camara">Camara</string>
+    <string name="menu_contactos">Contactos</string>
+    <string name="menu_localizacion">Localizacion</string>
 </resources>
